@@ -1,0 +1,2 @@
+import xzy_01_九九乘法表
+xzy_01_九九乘法表.multiple_table()

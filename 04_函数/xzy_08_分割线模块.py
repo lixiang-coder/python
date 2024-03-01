@@ -7,11 +7,9 @@ def print_lines(char, times):
 
     :param char:分割线使用的分割字符
     :param times:分割线重复的次数
+    :return:
     """
     row = 0
     while row < 5:
         print_line(char,times)
         row += 1
-
-
-print_lines("*",20)
